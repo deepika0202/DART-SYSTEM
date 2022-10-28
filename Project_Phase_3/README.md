@@ -5,7 +5,7 @@ each table
 
 Write SQL statements to create database, tables and all other structures. Primary key and foreign keys must be defined as appropriate. Also specify data type and constraints for each attribute and in addition to specify the referential integrity.
 
-Use the Create View statement to create the following views:
+### Use the Create View statement to create the following views:
 1. Top A-Star Passenger- This view returns the First Name, Last Name and Date of
 membership enrollment of those passengers who have travelled more than 6 times in
 the last month.
