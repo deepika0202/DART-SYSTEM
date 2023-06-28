@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DART-Relational-Database-Design
 This project implements a relational database for the Dallas Area Road Transport (DART) to store information about their bus transportation system and carry work in an organised way. This project was implemented as a part of coursework for Database Design at UTD. The project was implemented in four phases.
 
@@ -22,3 +23,7 @@ A-Star passengers can have guests who travel for free with them four times a mon
 Bus details such as Bus Number, License plate number, number of seats and other information are stored. Each route has many bus stops. One bus stop is part of only one route. The route andbus stop details are stored. Each bus is parked in a terminal and the information of the terminal such as Terminal ID, Location, Date and Time are stored.
 
 Each bus drives on one particular route and follows a particular time table. The time table information such as day and start time, end time and intervals (15 min, 20 min, 30 min) are recorded. Values for ‘day’ can be {M,T,W,Th,F,Sat,Sun}. A unique ID in the form of “DTXX” is given to each unique record in the timetable. For example, Day-{M}, StartTime- 10:00, EndTime – 20:00, Interval - 15m can have ID DT01 and so on. A bus may have different StartTime, EndTime or Interval for different days.
+=======
+# DART-SYSTEM
+This project implements a relational database for the Dallas Area Road Transport (DART) to store information about their bus transportation system and carry work in an organised way. This project was implemented as a part of coursework for Database Design at UTD. The project was implemented in four phases.
+>>>>>>> effb23ef2876593eeb90e193939d8684f721b5e7
